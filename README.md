@@ -13,14 +13,14 @@ dispensaries are charging **today**.
 Interactive version, always current: **<https://weedbuddylink.com/price-index/>**
 
 <!-- LATEST:BEGIN -->
-**Latest snapshot: July 2026** (data date 2026-07-15)
+**Latest snapshot: July 2026** (data date 2026-07-22)
 
 | State | Median eighth (3.5g) | Median ounce (28g) | Cheapest ounce | Dispensaries tracked |
 |---|---|---|---|---|
-| Ohio | $42.00 | $190.50 | $120.00 | 72 |
-| Arizona | $40.50 | $180.50 | $47.42 | 141 |
+| Ohio | $42.00 | $147.35 | $112.50 | 72 |
+| Arizona | $40.00 | $180.00 | $45.00 | 141 |
 | Michigan | $25.00 | $115.00 | $30.00 | 172 |
-| Colorado | $24.00 | $106.50 | $30.77 | 168 |
+| Colorado | $23.94 | $106.50 | $30.77 | 168 |
 <!-- LATEST:END -->
 
 ## Headline finding
@@ -39,6 +39,9 @@ data/
   latest/                  stable-URL copy of the newest snapshot (safe to deep-link)
 ```
 
+> **Scope.** This dataset is deliberately **aggregate only** — state and city medians.
+> It contains no per-store or per-product prices, and names no individual dispensary.
+
 ### `state_medians.csv`
 
 | column | meaning |
@@ -49,8 +52,7 @@ data/
 | `median_eighth_usd` | median price of a 3.5 g eighth of flower |
 | `median_ounce_usd` | median price of a 28 g ounce (blank if under 20 listings) |
 | `cheapest_ounce_usd` | lowest plausible ounce price live on a menu at snapshot time |
-| `cheapest_ounce_store` | dispensary offering it |
-| `cheapest_ounce_city` | its city |
+| `cheapest_ounce_city` | the city it was found in |
 | `dispensaries_tracked` | licensed dispensaries with a live menu in the snapshot |
 | `flower_price_sample` | number of eighth prices behind the median |
 | `live_listings` | total live product listings tracked in the state |

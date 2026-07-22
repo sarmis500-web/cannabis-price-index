@@ -1,5 +1,5 @@
-date,state,state_name,median_eighth_usd,median_ounce_usd,cheapest_ounce_usd,cheapest_ounce_store,cheapest_ounce_city,dispensaries_tracked,flower_price_sample,live_listings
-2026-07-15,OH,Ohio,42.00,190.50,120.00,Nar Cannabis - Columbus,Columbus,72,4040,34989
-2026-07-15,AZ,Arizona,40.50,180.50,47.42,All Greens - Sun City,Sun City,141,9325,112969
-2026-07-15,MI,Michigan,25.00,115.00,30.00,Ascend Cannabis - Detroit,Detroit,172,15322,160902
-2026-07-15,CO,Colorado,24.00,106.50,30.77,Good Chemistry - (Colfax),Denver,168,5389,47001
+date,state,state_name,median_eighth_usd,median_ounce_usd,cheapest_ounce_usd,cheapest_ounce_city,dispensaries_tracked,flower_price_sample,live_listings
+2026-07-22,OH,Ohio,42.00,147.35,112.50,Columbus,72,4345,35952
+2026-07-22,AZ,Arizona,40.00,180.00,45.00,Tucson,141,9818,117426
+2026-07-22,MI,Michigan,25.00,115.00,30.00,Detroit,172,15661,166702
+2026-07-22,CO,Colorado,23.94,106.50,30.77,Denver,168,5456,48428
