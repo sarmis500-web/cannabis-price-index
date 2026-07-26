@@ -1,5 +1,5 @@
 date,state,state_name,median_eighth_usd,median_ounce_usd,cheapest_ounce_usd,cheapest_ounce_city,dispensaries_tracked,flower_price_sample,live_listings
-2026-07-22,OH,Ohio,42.00,147.35,112.50,Columbus,72,4345,35952
-2026-07-22,AZ,Arizona,40.00,180.00,45.00,Tucson,141,9818,117426
-2026-07-22,MI,Michigan,25.00,115.00,30.00,Detroit,172,15661,166702
-2026-07-22,CO,Colorado,23.94,106.50,30.77,Denver,168,5456,48428
+2026-07-26,AZ,Arizona,35.00,160.00,33.00,Kingman,141,9800,116966
+2026-07-26,OH,Ohio,33.95,164.22,126.00,Columbus,72,4373,36402
+2026-07-26,CO,Colorado,23.89,106.50,30.77,Denver,168,5502,49140
+2026-07-26,MI,Michigan,20.00,100.00,30.00,Grand Rapids,172,15963,170359
