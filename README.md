@@ -20,7 +20,7 @@ Interactive version, always current: **<https://weedbuddylink.com/price-index/>*
 | Arizona | $35.00 | $160.00 | $33.00 | 141 |
 | Ohio | $33.95 | $164.22 | $126.00 | 72 |
 | Colorado | $23.89 | $106.50 | $30.77 | 168 |
-| Michigan | $20.00 | $100.00 | $30.00 | 172 |
+| Michigan | $20.00 | $100.00 | $30.00 | 439 |
 <!-- LATEST:END -->
 
 ## Headline finding
