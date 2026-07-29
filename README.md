@@ -13,12 +13,12 @@ dispensaries are charging **today**.
 Interactive version, always current: **<https://weedbuddylink.com/price-index/>**
 
 <!-- LATEST:BEGIN -->
-**Latest snapshot: July 2026** (data date 2026-07-26)
+**Latest snapshot: July 2026** (data date 2026-07-29)
 
 | State | Median eighth (3.5g) | Median ounce (28g) | Cheapest ounce | Dispensaries tracked |
 |---|---|---|---|---|
 | Arizona | $35.00 | $160.00 | $33.00 | 141 |
-| Ohio | $33.95 | $164.22 | $126.00 | 72 |
+| Ohio | $34.80 | $164.22 | $126.00 | 73 |
 | Colorado | $23.89 | $106.50 | $30.77 | 168 |
 | Michigan | $20.00 | $100.00 | $30.00 | 439 |
 <!-- LATEST:END -->
