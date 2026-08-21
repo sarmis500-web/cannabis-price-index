@@ -4,7 +4,7 @@
 
 <!-- COVERAGE:BEGIN -->
 [WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,140 licensed recreational
-dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (957,863 live listings in the current
+dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (958,182 live listings in the current
 snapshot). This repository publishes that price data as free, citable dated snapshots — median
 flower prices by state and by city.
 <!-- COVERAGE:END -->
@@ -25,10 +25,10 @@ Interactive version, always current: **<https://weedbuddylink.com/price-index/>*
 
 | State | Median eighth (3.5g) | Median ounce (28g) | Cheapest ounce | Dispensaries tracked |
 |---|---|---|---|---|
-| Maryland | $36.00 | $190.00 | $80.00 | 83 |
-| Ohio | $35.67 | $171.00 | $133.00 | 81 |
-| California | $33.74 | $79.99 | $12.99 | 151 |
-| Arizona | $30.00 | $199.00 | $25.00 | 140 |
+| Ohio | $36.00 | $166.18 | $120.00 | 81 |
+| Maryland | $35.20 | $187.50 | $80.00 | 83 |
+| California | $32.49 | $80.00 | $12.99 | 151 |
+| Arizona | $30.00 | $196.00 | $25.00 | 140 |
 | Nevada | $30.00 | $120.00 | $59.00 | 77 |
 | Colorado | $23.94 | $106.82 | $16.73 | 168 |
 | Michigan | $20.00 | $99.00 | $6.99 | 440 |
