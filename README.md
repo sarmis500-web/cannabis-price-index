@@ -2,10 +2,12 @@
 
 **What legal cannabis actually costs right now, measured from live dispensary menus.**
 
-[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,135 licensed recreational
-dispensaries across seven states — Michigan, Arizona, Ohio, Colorado, Maryland, California and
-Nevada** (907,152 live listings in the current snapshot). This repository publishes that price
-data as free, citable dated snapshots — median flower prices by state and by city.
+<!-- COVERAGE:BEGIN -->
+[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,140 licensed recreational
+dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (957,863 live listings in the current
+snapshot). This repository publishes that price data as free, citable dated snapshots — median
+flower prices by state and by city.
+<!-- COVERAGE:END -->
 
 Nobody else publishes this openly: existing cannabis price benchmarks are paywalled, and
 state-reported averages lag months behind the shelf. These figures come straight from what
