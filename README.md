@@ -23,12 +23,12 @@ Interactive version, always current: **<https://weedbuddylink.com/price-index/>*
 
 | State | Median eighth (3.5g) | Median ounce (28g) | Cheapest ounce | Dispensaries tracked |
 |---|---|---|---|---|
-| Maryland | $37.00 | $190.00 | $78.00 | 83 |
+| Maryland | $36.00 | $190.00 | $80.00 | 83 |
 | Ohio | $35.67 | $171.00 | $133.00 | 81 |
-| California | $33.75 | $79.99 | $12.99 | 151 |
-| Arizona | $30.00 | $120.00 | $49.99 | 140 |
-| Nevada | $30.00 | $120.00 | $54.00 | 77 |
-| Colorado | $23.89 | $106.82 | $16.73 | 168 |
+| California | $33.74 | $79.99 | $12.99 | 151 |
+| Arizona | $30.00 | $199.00 | $25.00 | 140 |
+| Nevada | $30.00 | $120.00 | $59.00 | 77 |
+| Colorado | $23.94 | $106.82 | $16.73 | 168 |
 | Michigan | $20.00 | $99.00 | $6.99 | 440 |
 <!-- LATEST:END -->
 
@@ -126,6 +126,22 @@ methodological reason can be told apart from one that moves because the market m
   **MI $100.00 → $99.00 · OH $164.22 → $147.35 · AZ $160.00 → $180.00 · CO $106.50 → $110.00.**
   Arizona and Colorado *rose* because cheap shake had been pulling their flower medians down.
   Eighth prices and all city figures are unaffected by this change.
+
+- **2026-08-21 — six states re-collected; listing counts rose, and some OUNCE medians moved with
+  them.** Arizona, California, Colorado, Maryland, Nevada and Ohio were re-read using a collection
+  path that pages a store's menu to completion, where earlier snapshots of those states could stop
+  short. More of each menu is therefore counted: live listings rose **CO +21.1% · OH +20.8% ·
+  MD +18.7% · NV +8.3% · AZ +6.6% · CA +4.8%** (Michigan unchanged — not re-collected).
+  **Eighth-ounce medians barely moved** (AZ $30.00 → $30.00 · NV $30.00 → $30.00 · OH $35.67 →
+  $35.67 · CO $23.89 → $23.94 · CA $33.75 → $33.74 · MD $37.00 → $36.00), which is the figure we
+  consider robust and the one we recommend citing.
+  ⚠️ **Ounce medians are thinner and moved more, most sharply Arizona: $120.00 → $199.00.** That is
+  a change in what we can see, not a change in what Arizona charges. The added listings are
+  genuine premium ounces (top-shelf and deli flower at $230–$280 from named producers), and
+  Arizona's ounce prices are **barbell-distributed** — 25% at or below $80, 75% at or above $240,
+  with very little in between — so its median sits in a sparse gap and swings a long way on small
+  changes in what is counted. ⛔ **Do not read the Arizona ounce as a market movement, and prefer
+  the eighth for any state-to-state comparison.**
 
 - **`observed_from` / `observed_to` (state_medians.csv) — when the prices were actually seen.**
   The `date` column is the day the file was *generated*. Stores are re-scraped on different days,
