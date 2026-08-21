@@ -3,8 +3,8 @@
 **What legal cannabis actually costs right now, measured from live dispensary menus.**
 
 <!-- COVERAGE:BEGIN -->
-[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,140 licensed recreational
-dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (958,182 live listings in the current
+[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,145 licensed recreational
+dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (961,353 live listings in the current
 snapshot). This repository publishes that price data as free, citable dated snapshots — median
 flower prices by state and by city.
 <!-- COVERAGE:END -->
@@ -25,7 +25,7 @@ Interactive version, always current: **<https://weedbuddylink.com/price-index/>*
 
 | State | Median eighth (3.5g) | Median ounce (28g) | Cheapest ounce | Dispensaries tracked |
 |---|---|---|---|---|
-| Ohio | $36.00 | $166.18 | $120.00 | 81 |
+| Ohio | $35.50 | $166.18 | $120.00 | 86 |
 | Maryland | $35.20 | $187.50 | $80.00 | 83 |
 | California | $32.49 | $80.00 | $12.99 | 151 |
 | Arizona | $30.00 | $196.00 | $25.00 | 140 |
