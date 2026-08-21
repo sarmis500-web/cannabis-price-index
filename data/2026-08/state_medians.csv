@@ -1,8 +1,8 @@
-date,state,state_name,median_eighth_usd,median_ounce_usd,cheapest_ounce_usd,cheapest_ounce_city,dispensaries_tracked,flower_price_sample,live_listings
-2026-08-20,MD,Maryland,37.00,190.00,78.00,Ellicott City,83,8259,56803
-2026-08-20,OH,Ohio,36.00,147.35,133.00,Columbus,76,4970,40563
-2026-08-20,CA,California,33.75,79.99,12.99,San Diego,151,15890,158820
-2026-08-20,AZ,Arizona,30.00,120.00,49.99,Phoenix,140,10309,122684
-2026-08-20,NV,Nevada,30.00,120.00,54.00,Las Vegas,77,6286,61396
-2026-08-20,CO,Colorado,23.89,106.82,16.73,Denver,168,5441,51476
-2026-08-20,MI,Michigan,20.00,99.00,6.99,Redford Township,440,39589,415410
+date,state,state_name,median_eighth_usd,median_ounce_usd,cheapest_ounce_usd,cheapest_ounce_city,dispensaries_tracked,flower_price_sample,live_listings,observed_from,observed_to
+2026-08-21,MD,Maryland,37.00,190.00,78.00,Ellicott City,83,8259,56803,2026-08-02,2026-08-06
+2026-08-21,OH,Ohio,35.67,171.00,133.00,Columbus,81,5671,48983,2026-08-06,2026-08-21
+2026-08-21,CA,California,33.75,79.99,12.99,San Diego,151,15890,158820,2026-08-06,2026-08-06
+2026-08-21,AZ,Arizona,30.00,120.00,49.99,Phoenix,140,10309,122684,2026-08-10,2026-08-10
+2026-08-21,NV,Nevada,30.00,120.00,54.00,Las Vegas,77,6286,61396,2026-08-06,2026-08-11
+2026-08-21,CO,Colorado,23.89,106.82,16.73,Denver,168,5441,51476,2026-07-07,2026-08-07
+2026-08-21,MI,Michigan,20.00,99.00,6.99,Redford Township,440,39589,415410,2026-06-26,2026-08-17
