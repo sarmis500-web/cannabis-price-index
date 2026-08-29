@@ -3,8 +3,8 @@
 **What legal cannabis actually costs right now, measured from live dispensary menus.**
 
 <!-- COVERAGE:BEGIN -->
-[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,145 licensed recreational
-dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (961,353 live listings in the current
+[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,239 licensed recreational
+dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (1,046,795 live listings in the current
 snapshot). This repository publishes that price data as free, citable dated snapshots — median
 flower prices by state and by city.
 <!-- COVERAGE:END -->
@@ -21,12 +21,12 @@ Interactive version, always current: **<https://weedbuddylink.com/price-index/>*
 > The live page is always current and carries every state; this repo is a dated archive.
 
 <!-- LATEST:BEGIN -->
-**Latest snapshot: August 2026** (data date 2026-08-21)
+**Latest snapshot: August 2026** (data date 2026-08-29)
 
 | State | Median eighth (3.5g) | Median ounce (28g) | Cheapest ounce | Dispensaries tracked |
 |---|---|---|---|---|
-| Ohio | $35.50 | $166.18 | $120.00 | 86 |
-| Maryland | $35.20 | $187.50 | $80.00 | 83 |
+| Ohio | $37.80 | $180.00 | $99.00 | 180 |
+| Maryland | $35.00 | $187.50 | $80.00 | 83 |
 | California | $32.49 | $80.00 | $12.99 | 151 |
 | Arizona | $30.00 | $196.00 | $25.00 | 140 |
 | Nevada | $30.00 | $120.00 | $59.00 | 77 |
@@ -36,10 +36,12 @@ Interactive version, always current: **<https://weedbuddylink.com/price-index/>*
 
 ## Headline finding
 
+<!-- HEADLINE:BEGIN -->
 Cannabis prices vary dramatically between neighboring legal states — an eighth of flower in
-**Ohio typically costs close to 2× what it costs in Michigan**, a two-hour drive away — $36.00
+**Ohio typically costs close to 1.9× what it costs in Michigan**, a two-hour drive away — $37.80
 against $20.00 in the current snapshot. The dated snapshots in `data/` let you track how (and
 whether) that gap closes.
+<!-- HEADLINE:END -->
 
 ## What's in the data
 
