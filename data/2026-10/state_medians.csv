@@ -1,0 +1,8 @@
+date,state,state_name,median_eighth_usd,median_ounce_usd,cheapest_ounce_usd,cheapest_ounce_city,dispensaries_tracked,flower_price_sample,live_listings,observed_from,observed_to
+2026-10-21,MD,Maryland,40.00,180.00,87.50,Edgewater,83,9140,68875,2026-09-23,2026-10-21
+2026-10-21,OH,Ohio,36.00,168.00,84.50,Columbus,181,16932,101901,2026-09-02,2026-10-21
+2026-10-21,CA,California,32.50,79.99,13.99,San Diego,151,15186,162455,2026-08-21,2026-10-21
+2026-10-21,AZ,Arizona,30.00,100.00,39.99,Phoenix,140,10796,130452,2026-08-10,2026-10-21
+2026-10-21,NV,Nevada,30.00,99.00,69.00,New Washoe City,77,6556,65127,2026-10-21,2026-10-21
+2026-10-21,CO,Colorado,23.20,111.55,19.00,Colorado Springs,168,5127,58729,2026-07-07,2026-10-21
+2026-10-21,MI,Michigan,20.00,99.00,6.99,Mt Morris,426,40106,449853,2026-06-26,2026-10-21
