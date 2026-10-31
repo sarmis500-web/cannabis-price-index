@@ -3,8 +3,8 @@
 **What legal cannabis actually costs right now, measured from live dispensary menus.**
 
 <!-- COVERAGE:BEGIN -->
-[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,226 licensed recreational
-dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (1,037,392 live listings in the current
+[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,258 licensed recreational
+dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (1,087,846 live listings in the current
 snapshot). This repository publishes that price data as free, citable dated snapshots — median
 flower prices by state and by city.
 <!-- COVERAGE:END -->
@@ -21,24 +21,24 @@ Interactive version, always current: **<https://weedbuddylink.com/price-index/>*
 > The live page is always current and carries every state; this repo is a dated archive.
 
 <!-- LATEST:BEGIN -->
-**Latest snapshot: October 2026** (data date 2026-10-21)
+**Latest snapshot: October 2026** (data date 2026-10-31)
 
 | State | Median eighth (3.5g) | Median ounce (28g) | Cheapest ounce | Dispensaries tracked |
 |---|---|---|---|---|
-| Maryland | $40.00 | $180.00 | $87.50 | 83 |
-| Ohio | $36.00 | $168.00 | $84.50 | 181 |
-| California | $32.50 | $79.99 | $13.99 | 151 |
-| Arizona | $30.00 | $100.00 | $39.99 | 140 |
-| Nevada | $30.00 | $99.00 | $69.00 | 77 |
-| Colorado | $23.20 | $111.55 | $19.00 | 168 |
-| Michigan | $20.00 | $99.00 | $6.99 | 426 |
+| Maryland | $35.00 | $179.00 | $69.00 | 83 |
+| Ohio | $33.00 | $150.00 | $78.00 | 181 |
+| California | $30.25 | $75.00 | $16.49 | 151 |
+| Nevada | $26.25 | $99.00 | $69.00 | 77 |
+| Arizona | $25.00 | $96.00 | $27.50 | 140 |
+| Colorado | $22.47 | $107.91 | $19.00 | 168 |
+| Michigan | $20.00 | $99.00 | $5.99 | 458 |
 <!-- LATEST:END -->
 
 ## Headline finding
 
 <!-- HEADLINE:BEGIN -->
 Cannabis prices vary dramatically between neighboring legal states — an eighth of flower in
-**Ohio typically costs close to 1.8× what it costs in Michigan**, a two-hour drive away — $36.00
+**Ohio typically costs close to 1.6× what it costs in Michigan**, a two-hour drive away — $33.00
 against $20.00 in the current snapshot. The dated snapshots in `data/` let you track how (and
 whether) that gap closes.
 <!-- HEADLINE:END -->
