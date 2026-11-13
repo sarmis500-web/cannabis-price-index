@@ -3,8 +3,8 @@
 **What legal cannabis actually costs right now, measured from live dispensary menus.**
 
 <!-- COVERAGE:BEGIN -->
-[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **1,258 licensed recreational
-dispensaries across 7 states — Michigan, Arizona, Ohio, Colorado, Maryland, California and Nevada** (1,087,846 live listings in the current
+[WeedBuddy](https://weedbuddylink.com) tracks live menu prices at **3,217 licensed recreational
+dispensaries across 21 states — Michigan, Arizona, Ohio, Colorado, Maryland, California, Nevada, Alaska, Connecticut, Illinois, Maine, Massachusetts, Minnesota, Missouri, Montana, New Jersey, New Mexico, New York, Oregon, Vermont and Washington** (2,443,917 live listings in the current
 snapshot). This repository publishes that price data as free, citable dated snapshots — median
 flower prices by state and by city.
 <!-- COVERAGE:END -->
@@ -21,24 +21,38 @@ Interactive version, always current: **<https://weedbuddylink.com/price-index/>*
 > The live page is always current and carries every state; this repo is a dated archive.
 
 <!-- LATEST:BEGIN -->
-**Latest snapshot: October 2026** (data date 2026-10-31)
+**Latest snapshot: November 2026** (data date 2026-11-12)
 
 | State | Median eighth (3.5g) | Median ounce (28g) | Cheapest ounce | Dispensaries tracked |
 |---|---|---|---|---|
-| Maryland | $35.00 | $179.00 | $69.00 | 83 |
-| Ohio | $33.00 | $150.00 | $78.00 | 181 |
-| California | $30.25 | $75.00 | $16.49 | 151 |
-| Nevada | $26.25 | $99.00 | $69.00 | 77 |
-| Arizona | $25.00 | $96.00 | $27.50 | 140 |
-| Colorado | $22.47 | $107.91 | $19.00 | 168 |
-| Michigan | $20.00 | $99.00 | $5.99 | 458 |
+| Minnesota | $49.00 | $336.00 | $179.00 | 50 |
+| Alaska | $42.00 | $295.00 | $100.00 | 29 |
+| New York | $40.00 | $144.50 | $50.00 | 302 |
+| New Jersey | $40.00 | $168.00 | $80.00 | 140 |
+| Vermont | $39.99 | $242.00 | $60.00 | 49 |
+| Maryland | $36.00 | $185.00 | $87.50 | 83 |
+| Ohio | $35.50 | $161.50 | $84.50 | 208 |
+| Connecticut | $33.75 | $140.00 | $117.00 | 28 |
+| Illinois | $33.00 | $126.00 | $72.50 | 71 |
+| California | $32.45 | $77.34 | $14.49 | 151 |
+| Arizona | $30.00 | $96.00 | $39.99 | 155 |
+| Nevada | $30.00 | $99.00 | $20.00 | 77 |
+| Maine | $30.00 | $190.00 | $85.00 | 81 |
+| Missouri | $30.00 | $169.00 | $74.96 | 184 |
+| Montana | $28.00 | $190.00 | $55.00 | 129 |
+| Washington | $25.85 | $88.00 | $10.00 | 98 |
+| Massachusetts | $25.00 | $120.00 | $50.00 | 288 |
+| Oregon | $25.00 | $150.00 | $14.50 | 335 |
+| New Mexico | $25.00 | $105.00 | $13.97 | 134 |
+| Colorado | $22.49 | $109.92 | $19.00 | 168 |
+| Michigan | $20.00 | $99.00 | $5.00 | 457 |
 <!-- LATEST:END -->
 
 ## Headline finding
 
 <!-- HEADLINE:BEGIN -->
 Cannabis prices vary dramatically between neighboring legal states — an eighth of flower in
-**Ohio typically costs close to 1.6× what it costs in Michigan**, a two-hour drive away — $33.00
+**Ohio typically costs close to 1.8× what it costs in Michigan**, a two-hour drive away — $35.50
 against $20.00 in the current snapshot. The dated snapshots in `data/` let you track how (and
 whether) that gap closes.
 <!-- HEADLINE:END -->
